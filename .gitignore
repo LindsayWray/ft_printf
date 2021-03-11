@@ -1,0 +1,7 @@
+pft/
+a.out
+*.o
+*.a
+main.c
+.DS_Store
+.vscode/
